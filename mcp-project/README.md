@@ -57,3 +57,7 @@ The MCP servers are started on demand through `npx`; their first launch may down
 - Enter a message to chat with the agent.
 - Type `clear` to clear conversation memory.
 - Type `exit` or `quit` to end the session.
+
+## Related notebooks
+
+See the [repository notebook index](../README.md) for brief descriptions and links to all Jupyter notebooks.
