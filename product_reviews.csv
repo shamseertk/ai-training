@@ -1,139 +1,140 @@
-review_id,customer_name,customer_email,age,city,product,rating,review_date,review_comment
-R00001,Sydney Chen,customer0001@example.com,31,"Honolulu, HI",Ceramic Coffee Mug,1,2025-09-07,Poor quality for the price; I would not recommend it.
-R00002,Cameron Harris,customer0002@example.com,36,"Detroit, MI",Everyday Water Bottle,4,2026-09-13,Comfortable to use and easy to recommend.
-R00003,Milan Carter,customer0003@example.com,29,"Chicago, IL",Reading Lamp,5,2025-09-09,The materials feel sturdy and the design is practical.
-R00004,Logan Price,customer0004@example.com,57,"Denver, CO",Bluetooth Speaker,4,2024-12-04,Works as described and feels well made.
-R00005,Finley Nguyen,customer0005@example.com,26,"Boston, MA",Ceramic Coffee Mug,4,2024-06-07,Good quality and useful; delivery took a little longer than expected.
-R00006,Morgan Carter,customer0006@example.com,54,"Detroit, MI",Cotton Throw Blanket,2,2024-12-04,I had trouble getting it to work consistently.
-R00007,Reese Gray,customer0007@example.com,40,"Raleigh, NC",Kitchen Scale,2,2025-12-09,Not great value for the price; a few improvements are needed.
-R00008,Casey Foster,customer0008@example.com,43,"Portland, OR",Wireless Earbuds,4,2026-11-15,Works as described and feels well made.
-R00009,Milan Garcia,customer0009@example.com,70,"Miami, FL",Travel Backpack,4,2026-01-27,"Really nice overall, with just a small detail that could be improved."
-R00010,Cameron Ross,customer0010@example.com,65,"Austin, TX",Reading Lamp,4,2025-04-24,It does what I need and has held up well so far.
-R00011,Shiloh Garcia,customer0011@example.com,70,"Portland, OR",Cotton Throw Blanket,3,2024-09-05,"Works adequately, though setup took longer than expected."
-R00012,Alex Foster,customer0012@example.com,23,"Honolulu, HI",Cotton Throw Blanket,5,2024-04-17,The details are well considered and it has quickly become a favorite.
-R00013,Cameron Gray,customer0013@example.com,73,"Miami, FL",Desk Organizer,4,2026-02-06,"Really nice overall, with just a small detail that could be improved."
-R00014,Terry Coleman,customer0014@example.com,49,"Atlanta, GA",Kitchen Scale,5,2026-10-04,Arrived in good condition and works beautifully.
-R00015,Morgan Kim,customer0015@example.com,72,"Boston, MA",Cotton Throw Blanket,4,2026-08-29,"I am happy with it, though I would like to see more color options."
-R00016,Drew Ward,customer0016@example.com,72,"Seattle, WA",Insulated Lunch Tote,4,2024-03-05,A solid purchase and good value for the price.
-R00017,Quinn Gray,customer0017@example.com,27,"Austin, TX",Ceramic Coffee Mug,5,2024-02-20,I use it every day and would happily recommend it.
-R00018,Sam Chen,customer0018@example.com,72,"Atlanta, GA",Insulated Lunch Tote,3,2024-02-13,Average experience: it arrived on time and performs as expected.
-R00019,Rowan Hayes,customer0019@example.com,71,"Raleigh, NC",Reading Lamp,3,2026-07-16,"Nothing wrong with it, but it does not stand out."
-R00020,Parker Nguyen,customer0020@example.com,58,"New York, NY",Everyday Water Bottle,4,2024-07-03,"I am happy with it, though I would like to see more color options."
-R00021,Riley Brooks,customer0021@example.com,34,"Chicago, IL",Kitchen Scale,3,2025-06-26,"Works adequately, though setup took longer than expected."
-R00022,Finley Lewis,customer0022@example.com,19,"Detroit, MI",Kitchen Scale,3,2026-04-06,"It is fine for everyday use, but not quite as impressive as I expected."
-R00023,Rowan Carter,customer0023@example.com,55,"Chicago, IL",Insulated Lunch Tote,4,2026-09-28,Good quality and useful; delivery took a little longer than expected.
-R00024,Reese Shah,customer0024@example.com,38,"Detroit, MI",Cotton Throw Blanket,4,2024-04-18,"I am happy with it, though I would like to see more color options."
-R00025,Harper Young,customer0025@example.com,75,"Detroit, MI",Wireless Earbuds,5,2025-07-30,"A great value, thoughtfully made, and exactly as described."
-R00026,Jamie Lewis,customer0026@example.com,23,"Boston, MA",Bluetooth Speaker,3,2026-03-24,"The quality is acceptable, but I am unsure I would buy it again."
-R00027,Jordan Brooks,customer0027@example.com,45,"Portland, OR",Kitchen Scale,5,2025-03-26,I use it every day and would happily recommend it.
-R00028,Sydney Hill,customer0028@example.com,37,"Detroit, MI",Insulated Lunch Tote,3,2025-11-24,"Useful enough, but the size was different from what I pictured."
-R00029,Reese Harris,customer0029@example.com,52,"Nashville, TN",Kitchen Scale,3,2025-10-11,Average experience: it arrived on time and performs as expected.
-R00030,Noah Kim,customer0030@example.com,48,"Minneapolis, MN",Ceramic Coffee Mug,5,2025-07-25,"Easy to use, reliable, and worth the price."
-R00031,Reese Price,customer0031@example.com,42,"Nashville, TN",Travel Backpack,4,2025-10-07,"Really nice overall, with just a small detail that could be improved."
-R00032,Avery Reed,customer0032@example.com,63,"Portland, OR",Cotton Throw Blanket,4,2025-11-12,A solid purchase and good value for the price.
-R00033,Avery Rivera,customer0033@example.com,24,"Seattle, WA",Insulated Lunch Tote,5,2024-06-17,Arrived in good condition and works beautifully.
-R00034,Quinn Reed,customer0034@example.com,75,"Minneapolis, MN",Reading Lamp,5,2024-10-12,The materials feel sturdy and the design is practical.
-R00035,Alex Shah,customer0035@example.com,23,"Tucson, AZ",Bluetooth Speaker,2,2026-01-19,"It is usable, but I would choose a different option next time."
-R00036,Harper Foster,customer0036@example.com,64,"Tucson, AZ",Travel Backpack,4,2025-05-12,It does what I need and has held up well so far.
-R00037,Sydney Foster,customer0037@example.com,71,"Tucson, AZ",Bluetooth Speaker,5,2024-01-14,I use it every day and would happily recommend it.
-R00038,Jamie Turner,customer0038@example.com,76,"Denver, CO",Desk Organizer,4,2024-11-24,Works as described and feels well made.
-R00039,Kai Turner,customer0039@example.com,53,"Tucson, AZ",Desk Organizer,5,2024-10-06,Exceeded my expectations; the quality is excellent.
-R00040,Cameron Lewis,customer0040@example.com,49,"Boston, MA",Desk Organizer,4,2026-01-16,It does what I need and has held up well so far.
-R00041,Jamie Chen,customer0041@example.com,71,"Austin, TX",Wireless Earbuds,3,2024-12-10,The product is okay; clearer instructions would help.
-R00042,Emerson Wong,customer0042@example.com,21,"Tucson, AZ",Travel Backpack,5,2025-05-19,Very pleased with this purchase. I would buy it again.
-R00043,Jamie Garcia,customer0043@example.com,34,"Atlanta, GA",Wireless Earbuds,5,2025-02-20,Arrived in good condition and works beautifully.
-R00044,Robin Nguyen,customer0044@example.com,74,"Atlanta, GA",Kitchen Scale,3,2026-08-15,"The quality is acceptable, but I am unsure I would buy it again."
-R00045,Parker Kim,customer0045@example.com,67,"Atlanta, GA",Wireless Earbuds,4,2024-06-03,A solid purchase and good value for the price.
-R00046,Sage Martin,customer0046@example.com,18,"Denver, CO",Bluetooth Speaker,4,2026-05-20,"Really nice overall, with just a small detail that could be improved."
-R00047,Parker Kim,customer0047@example.com,60,"Nashville, TN",Everyday Water Bottle,4,2024-04-28,It does what I need and has held up well so far.
-R00048,Rowan Kim,customer0048@example.com,50,"Portland, OR",Travel Backpack,2,2026-05-04,The description could be more accurate about the size.
-R00049,Rowan Hayes,customer0049@example.com,57,"Seattle, WA",Bluetooth Speaker,2,2024-05-04,I had trouble getting it to work consistently.
-R00050,Taylor Harris,customer0050@example.com,31,"Honolulu, HI",Reading Lamp,5,2025-06-24,The details are well considered and it has quickly become a favorite.
-R00051,Parker Campbell,customer0051@example.com,48,"Atlanta, GA",Bluetooth Speaker,2,2024-11-21,I had trouble getting it to work consistently.
-R00052,Robin Carter,customer0052@example.com,46,"Nashville, TN",Kitchen Scale,2,2024-10-13,Not great value for the price; a few improvements are needed.
-R00053,Jordan Foster,customer0053@example.com,76,"Raleigh, NC",Bluetooth Speaker,5,2025-09-01,The details are well considered and it has quickly become a favorite.
-R00054,Finley Campbell,customer0054@example.com,39,"New York, NY",Wireless Earbuds,3,2025-12-19,The product is okay; clearer instructions would help.
-R00055,Sydney Martin,customer0055@example.com,71,"Raleigh, NC",Wireless Earbuds,1,2024-09-29,"Unfortunately, it stopped working after very little use."
-R00056,Sam Carter,customer0056@example.com,29,"Portland, OR",Desk Organizer,4,2025-07-05,Good quality and useful; delivery took a little longer than expected.
-R00057,Rowan Wong,customer0057@example.com,50,"Boston, MA",Desk Organizer,4,2024-01-20,"I am happy with it, though I would like to see more color options."
-R00058,Terry Wong,customer0058@example.com,64,"Nashville, TN",Everyday Water Bottle,4,2025-10-14,"Really nice overall, with just a small detail that could be improved."
-R00059,Alex Chen,customer0059@example.com,51,"Miami, FL",Travel Backpack,5,2024-06-02,Arrived in good condition and works beautifully.
-R00060,Noah Rivera,customer0060@example.com,26,"Tucson, AZ",Cotton Throw Blanket,5,2026-02-15,"Easy to use, reliable, and worth the price."
-R00061,Blake Kim,customer0061@example.com,27,"Nashville, TN",Desk Organizer,5,2025-12-18,Exceeded my expectations; the quality is excellent.
-R00062,Blake Bennett,customer0062@example.com,63,"Honolulu, HI",Reading Lamp,2,2026-05-28,I had trouble getting it to work consistently.
-R00063,Morgan Shah,customer0063@example.com,70,"Denver, CO",Reading Lamp,5,2026-01-31,I use it every day and would happily recommend it.
-R00064,Jordan Rivera,customer0064@example.com,20,"Denver, CO",Reading Lamp,4,2026-02-04,Works as described and feels well made.
-R00065,Parker Nguyen,customer0065@example.com,50,"Raleigh, NC",Bluetooth Speaker,3,2026-07-19,"Nothing wrong with it, but it does not stand out."
-R00066,Logan Morris,customer0066@example.com,69,"Denver, CO",Desk Organizer,3,2025-08-11,"Nothing wrong with it, but it does not stand out."
-R00067,Harper Bennett,customer0067@example.com,66,"Boston, MA",Travel Backpack,3,2026-07-18,The product is okay; clearer instructions would help.
-R00068,Quinn Harris,customer0068@example.com,49,"Seattle, WA",Kitchen Scale,4,2026-02-24,A solid purchase and good value for the price.
-R00069,Casey Shah,customer0069@example.com,71,"Miami, FL",Ceramic Coffee Mug,5,2024-02-28,Arrived in good condition and works beautifully.
-R00070,Noah Edwards,customer0070@example.com,65,"Portland, OR",Everyday Water Bottle,3,2025-01-12,"The quality is acceptable, but I am unsure I would buy it again."
-R00071,Avery Young,customer0071@example.com,18,"Atlanta, GA",Kitchen Scale,3,2026-08-02,Average experience: it arrived on time and performs as expected.
-R00072,Logan Hayes,customer0072@example.com,73,"Nashville, TN",Desk Organizer,3,2025-05-28,"Nothing wrong with it, but it does not stand out."
-R00073,Finley Morris,customer0073@example.com,63,"Detroit, MI",Wireless Earbuds,2,2025-05-22,Not great value for the price; a few improvements are needed.
-R00074,Dakota Foster,customer0074@example.com,42,"Detroit, MI",Wireless Earbuds,5,2025-07-06,I use it every day and would happily recommend it.
-R00075,Dakota Coleman,customer0075@example.com,26,"Seattle, WA",Desk Organizer,5,2025-11-09,Exceeded my expectations; the quality is excellent.
-R00076,Jamie Ross,customer0076@example.com,77,"Nashville, TN",Ceramic Coffee Mug,3,2024-03-24,"Nothing wrong with it, but it does not stand out."
-R00077,Cameron Turner,customer0077@example.com,23,"Miami, FL",Bluetooth Speaker,5,2024-09-16,Very pleased with this purchase. I would buy it again.
-R00078,Skyler Carter,customer0078@example.com,37,"New York, NY",Bluetooth Speaker,5,2024-07-09,Exceeded my expectations; the quality is excellent.
-R00079,Riley Kim,customer0079@example.com,55,"Boston, MA",Travel Backpack,1,2026-07-26,It did not fit my needs and the return process was frustrating.
-R00080,Shiloh Chen,customer0080@example.com,62,"Raleigh, NC",Bluetooth Speaker,2,2026-04-11,Some parts feel flimsy and I have concerns about durability.
-R00081,Kai Diaz,customer0081@example.com,75,"Raleigh, NC",Ceramic Coffee Mug,4,2024-03-02,It does what I need and has held up well so far.
-R00082,Morgan Perry,customer0082@example.com,42,"Seattle, WA",Travel Backpack,3,2025-03-07,Decent product for the price; a couple of details could be better.
-R00083,Taylor Nguyen,customer0083@example.com,20,"New York, NY",Everyday Water Bottle,3,2026-03-30,Decent product for the price; a couple of details could be better.
-R00084,Logan Reed,customer0084@example.com,18,"Raleigh, NC",Reading Lamp,3,2024-08-28,"Nothing wrong with it, but it does not stand out."
-R00085,Robin Price,customer0085@example.com,69,"Atlanta, GA",Reading Lamp,4,2026-08-07,"Really nice overall, with just a small detail that could be improved."
-R00086,Kai Garcia,customer0086@example.com,27,"Raleigh, NC",Wireless Earbuds,3,2025-12-01,Decent product for the price; a couple of details could be better.
-R00087,Logan Harris,customer0087@example.com,62,"Atlanta, GA",Desk Organizer,1,2024-06-03,Several parts were missing when the package arrived.
-R00088,Sage Martin,customer0088@example.com,74,"Seattle, WA",Desk Organizer,3,2025-04-25,"The quality is acceptable, but I am unsure I would buy it again."
-R00089,Alex Edwards,customer0089@example.com,26,"Portland, OR",Reading Lamp,4,2025-09-30,A solid purchase and good value for the price.
-R00090,Drew Garcia,customer0090@example.com,28,"Raleigh, NC",Desk Organizer,4,2024-01-28,The product is great; the packaging could be better.
-R00091,Harper Gray,customer0091@example.com,68,"Tucson, AZ",Ceramic Coffee Mug,3,2025-09-15,"Useful enough, but the size was different from what I pictured."
-R00092,Cameron Nguyen,customer0092@example.com,76,"New York, NY",Reading Lamp,4,2024-04-13,The product is great; the packaging could be better.
-R00093,Shiloh Ross,customer0093@example.com,40,"Raleigh, NC",Desk Organizer,2,2026-10-19,"The design is nice, but the product did not work well for me."
-R00094,Drew Price,customer0094@example.com,19,"Raleigh, NC",Reading Lamp,4,2025-12-01,"Really nice overall, with just a small detail that could be improved."
-R00095,Parker Chen,customer0095@example.com,69,"Boston, MA",Ceramic Coffee Mug,5,2024-06-30,Very pleased with this purchase. I would buy it again.
-R00096,Riley Hill,customer0096@example.com,60,"Seattle, WA",Insulated Lunch Tote,1,2026-10-17,It did not fit my needs and the return process was frustrating.
-R00097,Morgan Coleman,customer0097@example.com,35,"New York, NY",Everyday Water Bottle,3,2024-01-05,Decent product for the price; a couple of details could be better.
-R00098,Morgan Shah,customer0098@example.com,62,"Boston, MA",Kitchen Scale,4,2026-01-02,"I am happy with it, though I would like to see more color options."
-R00099,Milan Turner,customer0099@example.com,76,"Chicago, IL",Reading Lamp,3,2025-03-25,"It is fine for everyday use, but not quite as impressive as I expected."
-R00100,Reese Diaz,customer0100@example.com,34,"Chicago, IL",Insulated Lunch Tote,5,2024-10-23,"A great value, thoughtfully made, and exactly as described."
-R00101,Avery Gray,customer0101@example.com,32,"Portland, OR",Cotton Throw Blanket,3,2025-02-22,The product is okay; clearer instructions would help.
-R00102,Dakota Harris,customer0102@example.com,48,"Tucson, AZ",Desk Organizer,4,2024-04-28,A solid purchase and good value for the price.
-R00103,Milan Garcia,customer0103@example.com,25,"Atlanta, GA",Bluetooth Speaker,3,2025-01-30,"The quality is acceptable, but I am unsure I would buy it again."
-R00104,Alex Martin,customer0104@example.com,19,"Boston, MA",Everyday Water Bottle,5,2026-04-03,Exceeded my expectations; the quality is excellent.
-R00105,Finley Wong,customer0105@example.com,72,"Chicago, IL",Bluetooth Speaker,5,2026-02-20,The details are well considered and it has quickly become a favorite.
-R00106,Riley Lewis,customer0106@example.com,56,"Raleigh, NC",Wireless Earbuds,5,2025-11-07,"Easy to use, reliable, and worth the price."
-R00107,Noah Garcia,customer0107@example.com,36,"Chicago, IL",Travel Backpack,2,2024-10-02,"It is usable, but I would choose a different option next time."
-R00108,Jamie Morris,customer0108@example.com,74,"Denver, CO",Everyday Water Bottle,4,2024-11-15,"Really nice overall, with just a small detail that could be improved."
-R00109,Sam Rivera,customer0109@example.com,31,"Miami, FL",Wireless Earbuds,3,2024-03-13,"Works adequately, though setup took longer than expected."
-R00110,Jamie Harris,customer0110@example.com,26,"Seattle, WA",Insulated Lunch Tote,4,2026-02-25,Works as described and feels well made.
-R00111,Finley Garcia,customer0111@example.com,77,"Miami, FL",Ceramic Coffee Mug,1,2024-01-14,The item arrived damaged and did not meet expectations.
-R00112,Morgan James,customer0112@example.com,59,"Denver, CO",Ceramic Coffee Mug,4,2024-07-16,A solid purchase and good value for the price.
-R00113,Taylor Carter,customer0113@example.com,38,"Minneapolis, MN",Ceramic Coffee Mug,3,2025-07-10,Average experience: it arrived on time and performs as expected.
-R00114,Taylor Lewis,customer0114@example.com,78,"Tucson, AZ",Desk Organizer,4,2025-01-05,Works as described and feels well made.
-R00115,Dakota Shah,customer0115@example.com,47,"Nashville, TN",Kitchen Scale,4,2025-02-09,The product is great; the packaging could be better.
-R00116,Robin Garcia,customer0116@example.com,58,"Minneapolis, MN",Everyday Water Bottle,4,2026-04-08,Comfortable to use and easy to recommend.
-R00117,Sydney Kim,customer0117@example.com,45,"Denver, CO",Everyday Water Bottle,4,2025-11-06,It does what I need and has held up well so far.
-R00118,Avery Campbell,customer0118@example.com,73,"Austin, TX",Travel Backpack,5,2025-12-17,The materials feel sturdy and the design is practical.
-R00119,Reese Foster,customer0119@example.com,51,"New York, NY",Bluetooth Speaker,3,2024-01-30,"It is fine for everyday use, but not quite as impressive as I expected."
-R00120,Jordan Hayes,customer0120@example.com,63,"Chicago, IL",Kitchen Scale,4,2024-05-27,"Really nice overall, with just a small detail that could be improved."
-R00121,Taylor Price,customer0121@example.com,39,"New York, NY",Ceramic Coffee Mug,4,2025-06-17,Good quality and useful; delivery took a little longer than expected.
-R00122,Sam Hayes,customer0122@example.com,19,"Raleigh, NC",Wireless Earbuds,4,2026-05-13,Good quality and useful; delivery took a little longer than expected.
-R00123,Logan Kim,customer0123@example.com,44,"Seattle, WA",Travel Backpack,4,2024-04-02,Comfortable to use and easy to recommend.
-R00124,Terry Foster,customer0124@example.com,61,"Portland, OR",Travel Backpack,3,2024-08-03,"Nothing wrong with it, but it does not stand out."
-R00125,Blake Diaz,customer0125@example.com,40,"Denver, CO",Travel Backpack,4,2025-07-04,It does what I need and has held up well so far.
-R00126,Noah Perry,customer0126@example.com,56,"Atlanta, GA",Desk Organizer,5,2024-10-04,"A great value, thoughtfully made, and exactly as described."
-R00127,Parker Bennett,customer0127@example.com,34,"Raleigh, NC",Travel Backpack,2,2026-03-29,Not great value for the price; a few improvements are needed.
-R00128,Avery Martin,customer0128@example.com,47,"Miami, FL",Desk Organizer,5,2026-09-28,I use it every day and would happily recommend it.
-R00129,Sage Lewis,customer0129@example.com,44,"Tucson, AZ",Ceramic Coffee Mug,2,2024-01-05,Some parts feel flimsy and I have concerns about durability.
-R00130,Casey Shah,customer0130@example.com,30,"Detroit, MI",Bluetooth Speaker,4,2024-04-11,Comfortable to use and easy to recommend.
-R00131,Riley Young,customer0131@example.com,40,"Miami, FL",Cotton Throw Blanket,4,2026-10-01,Comfortable to use and easy to recommend.
-R00132,Morgan Lewis,customer0132@example.com,68,"Detroit, MI",Bluetooth Speaker,2,2025-06-01,Not great value for the price; a few improvements are needed.
-R00133,Morgan Morris,customer0133@example.com,75,"Portland, OR",Reading Lamp,4,2025-11-23,Good quality and useful; delivery took a little longer than expected.
-R00134,Jamie Ward,customer0134@example.com,74,"Tucson, AZ",Insulated Lunch Tote,5,2024-09-25,"A great value, thoughtfully made, and exactly as described."
-R00135,Casey Campbell,customer0135@example.com,59,"Nashville, TN",Ceramic Coffee Mug,5,2024-07-07,The materials feel sturdy and the design is practical.
-R00136,Reese Nguyen,customer0136@example.com,58,"Boston, MA",Insulated Lunch Tote,3,2025-06-02,Average experience: it arrived on time and performs as expected.
-R00137,Riley Perry,customer0137@example.com,46,"Tucson, AZ",Travel Backpack,5,2024-02-17,The details are well considered and it has quickly become a favorite.
-R00138,Jordan James,customer0138@example.com,74,"Minneapolis, MN",Kitchen Scale,3,2025-04-18,"Works adequately, though setup took longer than expected."
+review_id,customer_name,customer_email,age,city,product,rating,review_date,review_comment,verified
+R00001,Sydney Chen,customer0001@example.com,31,"Honolulu, HI",Ceramic Coffee Mug,1,2025-09-07,Poor quality for the price; I would not recommend it.,False
+R00002,Cameron Harris,customer0002@example.com,36,"Detroit, MI",Everyday Water Bottle,4,2026-09-13,Comfortable to use and easy to recommend.,False
+R00003,Milan Carter,customer0003@example.com,29,"Chicago, IL",Reading Lamp,5,2025-09-09,The materials feel sturdy and the design is practical.,False
+R00004,Logan Price,customer0004@example.com,57,"Denver, CO",Bluetooth Speaker,4,2024-12-04,Works as described and feels well made.,False
+R00005,Finley Nguyen,customer0005@example.com,26,"Boston, MA",Ceramic Coffee Mug,4,2024-06-07,Good quality and useful; delivery took a little longer than expected.,False
+R00006,Morgan Carter,customer0006@example.com,54,"Detroit, MI",Cotton Throw Blanket,2,2024-12-04,I had trouble getting it to work consistently.,False
+R00007,Reese Gray,customer0007@example.com,40,"Raleigh, NC",Kitchen Scale,2,2025-12-09,Not great value for the price; a few improvements are needed.,False
+R00008,Casey Foster,customer0008@example.com,43,"Portland, OR",Wireless Earbuds,4,2026-11-15,Works as described and feels well made.,False
+R00009,Milan Garcia,customer0009@example.com,70,"Miami, FL",Travel Backpack,4,2026-01-27,"Really nice overall, with just a small detail that could be improved.",False
+R00010,Cameron Ross,customer0010@example.com,65,"Austin, TX",Reading Lamp,4,2025-04-24,It does what I need and has held up well so far.,False
+R00011,Shiloh Garcia,customer0011@example.com,70,"Portland, OR",Cotton Throw Blanket,3,2024-09-05,"Works adequately, though setup took longer than expected.",False
+R00012,Alex Foster,customer0012@example.com,23,"Honolulu, HI",Cotton Throw Blanket,5,2024-04-17,The details are well considered and it has quickly become a favorite.,False
+R00013,Cameron Gray,customer0013@example.com,73,"Miami, FL",Desk Organizer,4,2026-02-06,"Really nice overall, with just a small detail that could be improved.",False
+R00014,Terry Coleman,customer0014@example.com,49,"Atlanta, GA",Kitchen Scale,5,2026-10-04,Arrived in good condition and works beautifully.,False
+R00015,Morgan Kim,customer0015@example.com,72,"Boston, MA",Cotton Throw Blanket,4,2026-08-29,"I am happy with it, though I would like to see more color options.",False
+R00016,Drew Ward,customer0016@example.com,72,"Seattle, WA",Insulated Lunch Tote,4,2024-03-05,A solid purchase and good value for the price.,False
+R00017,Quinn Gray,customer0017@example.com,27,"Austin, TX",Ceramic Coffee Mug,5,2024-02-20,I use it every day and would happily recommend it.,False
+R00018,Sam Chen,customer0018@example.com,72,"Atlanta, GA",Insulated Lunch Tote,3,2024-02-13,Average experience: it arrived on time and performs as expected.,False
+R00019,Rowan Hayes,customer0019@example.com,71,"Raleigh, NC",Reading Lamp,3,2026-07-16,"Nothing wrong with it, but it does not stand out.",False
+R00020,Parker Nguyen,customer0020@example.com,58,"New York, NY",Everyday Water Bottle,4,2024-07-03,"I am happy with it, though I would like to see more color options.",False
+R00021,Riley Brooks,customer0021@example.com,34,"Chicago, IL",Kitchen Scale,3,2025-06-26,"Works adequately, though setup took longer than expected.",False
+R00022,Finley Lewis,customer0022@example.com,19,"Detroit, MI",Kitchen Scale,3,2026-04-06,"It is fine for everyday use, but not quite as impressive as I expected.",False
+R00023,Rowan Carter,customer0023@example.com,55,"Chicago, IL",Insulated Lunch Tote,4,2026-09-28,Good quality and useful; delivery took a little longer than expected.,False
+R00024,Reese Shah,customer0024@example.com,38,"Detroit, MI",Cotton Throw Blanket,4,2024-04-18,"I am happy with it, though I would like to see more color options.",False
+R00025,Harper Young,customer0025@example.com,75,"Detroit, MI",Wireless Earbuds,5,2025-07-30,,False
+R00026,Jamie Lewis,customer0026@example.com,23,"Boston, MA",Bluetooth Speaker,3,2026-03-24,"The quality is acceptable, but I am unsure I would buy it again.",False
+R00027,Jordan Brooks,customer0027@example.com,45,"Portland, OR",Kitchen Scale,5,2025-03-26,I use it every day and would happily recommend it.,False
+R00028,Sydney Hill,customer0028@example.com,37,"Detroit, MI",Insulated Lunch Tote,3,2025-11-24,"Useful enough, but the size was different from what I pictured.",False
+R00029,Reese Harris,customer0029@example.com,52,"Nashville, TN",Kitchen Scale,3,2025-10-11,Average experience: it arrived on time and performs as expected.,False
+R00030,Noah Kim,customer0030@example.com,48,"Minneapolis, MN",Ceramic Coffee Mug,5,2025-07-25,"Easy to use, reliable, and worth the price.",False
+R00031,Reese Price,customer0031@example.com,42,"Nashville, TN",Travel Backpack,4,2025-10-07,"Really nice overall, with just a small detail that could be improved.",False
+R00032,Avery Reed,customer0032@example.com,63,"Portland, OR",Cotton Throw Blanket,4,2025-11-12,A solid purchase and good value for the price.,False
+R00033,Avery Rivera,customer0033@example.com,24,"Seattle, WA",Insulated Lunch Tote,5,2024-06-17,Arrived in good condition and works beautifully.,False
+R00034,Quinn Reed,customer0034@example.com,75,"Minneapolis, MN",Reading Lamp,5,2024-10-12,The materials feel sturdy and the design is practical.,False
+R00035,Alex Shah,customer0035@example.com,23,"Tucson, AZ",Bluetooth Speaker,2,2026-01-19,"It is usable, but I would choose a different option next time.",False
+R00036,Harper Foster,customer0036@example.com,64,"Tucson, AZ",Travel Backpack,4,2025-05-12,It does what I need and has held up well so far.,False
+R00037,Sydney Foster,customer0037@example.com,71,"Tucson, AZ",Bluetooth Speaker,5,2024-01-14,I use it every day and would happily recommend it.,False
+R00038,Jamie Turner,customer0038@example.com,76,"Denver, CO",Desk Organizer,4,2024-11-24,Works as described and feels well made.,False
+R00039,Kai Turner,customer0039@example.com,53,"Tucson, AZ",Desk Organizer,5,2024-10-06,Exceeded my expectations; the quality is excellent.,False
+R00040,Cameron Lewis,customer0040@example.com,49,"Boston, MA",Desk Organizer,4,2026-01-16,It does what I need and has held up well so far.,False
+R00041,Jamie Chen,customer0041@example.com,71,"Austin, TX",Wireless Earbuds,3,2024-12-10,The product is okay; clearer instructions would help.,False
+R00042,Emerson Wong,customer0042@example.com,21,"Tucson, AZ",Travel Backpack,5,2025-05-19,Very pleased with this purchase. I would buy it again.,False
+R00043,Jamie Garcia,customer0043@example.com,34,"Atlanta, GA",Wireless Earbuds,5,2025-02-20,Arrived in good condition and works beautifully.,False
+R00044,Robin Nguyen,customer0044@example.com,74,"Atlanta, GA",Kitchen Scale,3,2026-08-15,"The quality is acceptable, but I am unsure I would buy it again.",False
+R00045,Parker Kim,customer0045@example.com,67,"Atlanta, GA",Wireless Earbuds,4,2024-06-03,A solid purchase and good value for the price.,False
+R00046,Sage Martin,customer0046@example.com,18,"Denver, CO",Bluetooth Speaker,4,2026-05-20,"Really nice overall, with just a small detail that could be improved.",False
+R00047,Parker Kim,customer0047@example.com,60,"Nashville, TN",Everyday Water Bottle,4,2024-04-28,It does what I need and has held up well so far.,False
+R00048,Rowan Kim,customer0048@example.com,50,"Portland, OR",Travel Backpack,2,2026-05-04,The description could be more accurate about the size.,False
+R00049,Rowan Hayes,customer0049@example.com,57,"Seattle, WA",Bluetooth Speaker,2,2024-05-04,I had trouble getting it to work consistently.,False
+R00050,Taylor Harris,customer0050@example.com,31,"Honolulu, HI",Reading Lamp,5,2025-06-24,The details are well considered and it has quickly become a favorite.,False
+R00051,Parker Campbell,customer0051@example.com,48,"Atlanta, GA",Bluetooth Speaker,2,2024-11-21,I had trouble getting it to work consistently.,False
+R00052,Robin Carter,customer0052@example.com,46,"Nashville, TN",Kitchen Scale,2,2024-10-13,Not great value for the price; a few improvements are needed.,False
+R00053,Jordan Foster,customer0053@example.com,76,"Raleigh, NC",Bluetooth Speaker,5,2025-09-01,The details are well considered and it has quickly become a favorite.,False
+R00054,Finley Campbell,customer0054@example.com,39,"New York, NY",Wireless Earbuds,3,2025-12-19,The product is okay; clearer instructions would help.,False
+R00055,Sydney Martin,customer0055@example.com,71,"Raleigh, NC",Wireless Earbuds,1,2024-09-29,"Unfortunately, it stopped working after very little use.",False
+R00056,Sam Carter,customer0056@example.com,29,"Portland, OR",Desk Organizer,4,2025-07-05,Good quality and useful; delivery took a little longer than expected.,False
+R00057,Rowan Wong,customer0057@example.com,50,"Boston, MA",Desk Organizer,4,2024-01-20,"I am happy with it, though I would like to see more color options.",False
+R00058,Terry Wong,customer0058@example.com,64,"Nashville, TN",Everyday Water Bottle,4,2025-10-14,"Really nice overall, with just a small detail that could be improved.",False
+R00059,Alex Chen,customer0059@example.com,51,"Miami, FL",Travel Backpack,5,2024-06-02,Arrived in good condition and works beautifully.,False
+R00060,Noah Rivera,customer0060@example.com,26,"Tucson, AZ",Cotton Throw Blanket,5,2026-02-15,"Easy to use, reliable, and worth the price.",False
+R00061,Blake Kim,customer0061@example.com,27,"Nashville, TN",Desk Organizer,5,2025-12-18,Exceeded my expectations; the quality is excellent.,False
+R00062,Blake Bennett,customer0062@example.com,63,"Honolulu, HI",Reading Lamp,2,2026-05-28,I had trouble getting it to work consistently.,False
+R00063,Morgan Shah,customer0063@example.com,70,"Denver, CO",Reading Lamp,5,2026-01-31,I use it every day and would happily recommend it.,False
+R00064,Jordan Rivera,customer0064@example.com,20,"Denver, CO",Reading Lamp,4,2026-02-04,Works as described and feels well made.,False
+R00065,Parker Nguyen,customer0065@example.com,50,"Raleigh, NC",Bluetooth Speaker,3,2026-07-19,"Nothing wrong with it, but it does not stand out.",False
+R00066,Logan Morris,customer0066@example.com,69,"Denver, CO",Desk Organizer,3,2025-08-11,"Nothing wrong with it, but it does not stand out.",False
+R00067,Harper Bennett,customer0067@example.com,66,"Boston, MA",Travel Backpack,3,2026-07-18,The product is okay; clearer instructions would help.,False
+R00068,Quinn Harris,customer0068@example.com,49,"Seattle, WA",Kitchen Scale,4,2026-02-24,A solid purchase and good value for the price.,False
+R00069,Casey Shah,customer0069@example.com,71,"Miami, FL",Ceramic Coffee Mug,5,2024-02-28,Arrived in good condition and works beautifully.,False
+R00070,Noah Edwards,customer0070@example.com,65,"Portland, OR",Everyday Water Bottle,3,2025-01-12,"The quality is acceptable, but I am unsure I would buy it again.",False
+R00071,Avery Young,customer0071@example.com,18,"Atlanta, GA",Kitchen Scale,3,2026-08-02,Average experience: it arrived on time and performs as expected.,False
+R00072,Logan Hayes,customer0072@example.com,73,"Nashville, TN",Desk Organizer,3,2025-05-28,"Nothing wrong with it, but it does not stand out.",False
+R00073,Finley Morris,customer0073@example.com,63,"Detroit, MI",Wireless Earbuds,2,2025-05-22,Not great value for the price; a few improvements are needed.,False
+R00074,Dakota Foster,customer0074@example.com,42,"Detroit, MI",Wireless Earbuds,5,2025-07-06,I use it every day and would happily recommend it.,False
+R00075,Dakota Coleman,customer0075@example.com,26,"Seattle, WA",Desk Organizer,5,2025-11-09,Exceeded my expectations; the quality is excellent.,False
+R00076,Jamie Ross,customer0076@example.com,77,"Nashville, TN",Ceramic Coffee Mug,3,2024-03-24,"Nothing wrong with it, but it does not stand out.",False
+R00077,Cameron Turner,customer0077@example.com,23,"Miami, FL",Bluetooth Speaker,5,2024-09-16,Very pleased with this purchase. I would buy it again.,False
+R00078,Skyler Carter,customer0078@example.com,37,"New York, NY",Bluetooth Speaker,5,2024-07-09,Exceeded my expectations; the quality is excellent.,False
+R00079,Riley Kim,customer0079@example.com,55,"Boston, MA",Travel Backpack,1,2026-07-26,It did not fit my needs and the return process was frustrating.,False
+R00080,Shiloh Chen,customer0080@example.com,62,"Raleigh, NC",Bluetooth Speaker,2,2026-04-11,Some parts feel flimsy and I have concerns about durability.,False
+R00081,Kai Diaz,customer0081@example.com,75,"Raleigh, NC",Ceramic Coffee Mug,4,2024-03-02,It does what I need and has held up well so far.,False
+R00082,Morgan Perry,customer0082@example.com,42,"Seattle, WA",Travel Backpack,3,2025-03-07,Decent product for the price; a couple of details could be better.,False
+R00083,Taylor Nguyen,customer0083@example.com,20,"New York, NY",Everyday Water Bottle,3,2026-03-30,Decent product for the price; a couple of details could be better.,False
+R00084,Logan Reed,customer0084@example.com,18,"Raleigh, NC",Reading Lamp,3,2024-08-28,"Nothing wrong with it, but it does not stand out.",False
+R00085,Robin Price,customer0085@example.com,69,"Atlanta, GA",Reading Lamp,4,2026-08-07,"Really nice overall, with just a small detail that could be improved.",False
+R00086,Kai Garcia,customer0086@example.com,27,"Raleigh, NC",Wireless Earbuds,3,2025-12-01,Decent product for the price; a couple of details could be better.,False
+R00087,Logan Harris,customer0087@example.com,62,"Atlanta, GA",Desk Organizer,1,2024-06-03,Several parts were missing when the package arrived.,False
+R00088,Sage Martin,customer0088@example.com,74,"Seattle, WA",Desk Organizer,3,2025-04-25,"The quality is acceptable, but I am unsure I would buy it again.",False
+R00089,Alex Edwards,customer0089@example.com,26,"Portland, OR",Reading Lamp,4,2025-09-30,A solid purchase and good value for the price.,False
+R00090,Drew Garcia,customer0090@example.com,28,"Raleigh, NC",Desk Organizer,4,2024-01-28,The product is great; the packaging could be better.,False
+R00091,Harper Gray,customer0091@example.com,68,"Tucson, AZ",Ceramic Coffee Mug,3,2025-09-15,"Useful enough, but the size was different from what I pictured.",False
+R00092,Cameron Nguyen,customer0092@example.com,76,"New York, NY",Reading Lamp,4,2024-04-13,The product is great; the packaging could be better.,False
+R00093,Shiloh Ross,customer0093@example.com,40,"Raleigh, NC",Desk Organizer,2,2026-10-19,"The design is nice, but the product did not work well for me.",False
+R00094,Drew Price,customer0094@example.com,19,"Raleigh, NC",Reading Lamp,4,2025-12-01,"Really nice overall, with just a small detail that could be improved.",False
+R00095,Parker Chen,customer0095@example.com,69,"Boston, MA",Ceramic Coffee Mug,5,2024-06-30,Very pleased with this purchase. I would buy it again.,False
+R00096,Riley Hill,customer0096@example.com,60,"Seattle, WA",Insulated Lunch Tote,1,2026-10-17,It did not fit my needs and the return process was frustrating.,False
+R00097,Morgan Coleman,customer0097@example.com,35,"New York, NY",Everyday Water Bottle,3,2024-01-05,Decent product for the price; a couple of details could be better.,False
+R00098,Morgan Shah,customer0098@example.com,62,"Boston, MA",Kitchen Scale,4,2026-01-02,"I am happy with it, though I would like to see more color options.",False
+R00099,Milan Turner,customer0099@example.com,76,"Chicago, IL",Reading Lamp,3,2025-03-25,"It is fine for everyday use, but not quite as impressive as I expected.",False
+R00100,Reese Diaz,customer0100@example.com,34,"Chicago, IL",Insulated Lunch Tote,5,2024-10-23,"A great value, thoughtfully made, and exactly as described.",False
+R00101,Avery Gray,customer0101@example.com,32,"Portland, OR",Cotton Throw Blanket,3,2025-02-22,The product is okay; clearer instructions would help.,False
+R00102,Dakota Harris,customer0102@example.com,48,"Tucson, AZ",Desk Organizer,4,2024-04-28,A solid purchase and good value for the price.,False
+R00103,Milan Garcia,customer0103@example.com,25,"Atlanta, GA",Bluetooth Speaker,3,2025-01-30,"The quality is acceptable, but I am unsure I would buy it again.",False
+R00104,Alex Martin,customer0104@example.com,19,"Boston, MA",Everyday Water Bottle,5,2026-04-03,Exceeded my expectations; the quality is excellent.,False
+R00105,Finley Wong,customer0105@example.com,72,"Chicago, IL",Bluetooth Speaker,5,2026-02-20,The details are well considered and it has quickly become a favorite.,False
+R00106,Riley Lewis,customer0106@example.com,56,"Raleigh, NC",Wireless Earbuds,5,2025-11-07,"Easy to use, reliable, and worth the price.",False
+R00107,Noah Garcia,customer0107@example.com,36,"Chicago, IL",Travel Backpack,2,2024-10-02,"It is usable, but I would choose a different option next time.",False
+R00108,Jamie Morris,customer0108@example.com,74,"Denver, CO",Everyday Water Bottle,4,2024-11-15,"Really nice overall, with just a small detail that could be improved.",False
+R00109,Sam Rivera,customer0109@example.com,31,"Miami, FL",Wireless Earbuds,3,2024-03-13,"Works adequately, though setup took longer than expected.",False
+R00110,Jamie Harris,customer0110@example.com,26,"Seattle, WA",Insulated Lunch Tote,4,2026-02-25,Works as described and feels well made.,False
+R00111,Finley Garcia,customer0111@example.com,77,"Miami, FL",Ceramic Coffee Mug,1,2024-01-14,The item arrived damaged and did not meet expectations.,False
+R00112,Morgan James,customer0112@example.com,59,"Denver, CO",Ceramic Coffee Mug,4,2024-07-16,A solid purchase and good value for the price.,False
+R00113,Taylor Carter,customer0113@example.com,38,"Minneapolis, MN",Ceramic Coffee Mug,3,2025-07-10,Average experience: it arrived on time and performs as expected.,False
+R00114,Taylor Lewis,customer0114@example.com,78,"Tucson, AZ",Desk Organizer,4,2025-01-05,Works as described and feels well made.,False
+R00115,Dakota Shah,customer0115@example.com,47,"Nashville, TN",Kitchen Scale,4,2025-02-09,The product is great; the packaging could be better.,False
+R00116,Robin Garcia,customer0116@example.com,58,"Minneapolis, MN",Everyday Water Bottle,4,2026-04-08,Comfortable to use and easy to recommend.,False
+R00117,Sydney Kim,customer0117@example.com,45,"Denver, CO",Everyday Water Bottle,4,2025-11-06,It does what I need and has held up well so far.,False
+R00118,Avery Campbell,customer0118@example.com,73,"Austin, TX",Travel Backpack,5,2025-12-17,The materials feel sturdy and the design is practical.,False
+R00119,Reese Foster,customer0119@example.com,51,"New York, NY",Bluetooth Speaker,3,2024-01-30,"It is fine for everyday use, but not quite as impressive as I expected.",False
+R00120,Jordan Hayes,customer0120@example.com,63,"Chicago, IL",Kitchen Scale,4,2024-05-27,"Really nice overall, with just a small detail that could be improved.",False
+R00121,Taylor Price,customer0121@example.com,39,"New York, NY",Ceramic Coffee Mug,4,2025-06-17,Good quality and useful; delivery took a little longer than expected.,False
+R00122,Sam Hayes,customer0122@example.com,19,"Raleigh, NC",Wireless Earbuds,4,2026-05-13,Good quality and useful; delivery took a little longer than expected.,False
+R00123,Logan Kim,customer0123@example.com,44,"Seattle, WA",Travel Backpack,4,2024-04-02,Comfortable to use and easy to recommend.,False
+R00124,Terry Foster,customer0124@example.com,61,"Portland, OR",Travel Backpack,3,2024-08-03,"Nothing wrong with it, but it does not stand out.",False
+R00125,Blake Diaz,customer0125@example.com,40,"Denver, CO",Travel Backpack,4,2025-07-04,It does what I need and has held up well so far.,False
+R00126,Noah Perry,customer0126@example.com,56,"Atlanta, GA",Desk Organizer,5,2024-10-04,"A great value, thoughtfully made, and exactly as described.",False
+R00127,Parker Bennett,customer0127@example.com,34,"Raleigh, NC",Travel Backpack,2,2026-03-29,Not great value for the price; a few improvements are needed.,False
+R00128,Avery Martin,customer0128@example.com,47,"Miami, FL",Desk Organizer,5,2026-09-28,I use it every day and would happily recommend it.,False
+R00129,Sage Lewis,customer0129@example.com,44,"Tucson, AZ",Ceramic Coffee Mug,2,2024-01-05,Some parts feel flimsy and I have concerns about durability.,False
+R00130,Casey Shah,customer0130@example.com,30,"Detroit, MI",Bluetooth Speaker,4,2024-04-11,Comfortable to use and easy to recommend.,False
+R00131,Riley Young,customer0131@example.com,40,"Miami, FL",Cotton Throw Blanket,4,2026-10-01,Comfortable to use and easy to recommend.,False
+R00132,Morgan Lewis,customer0132@example.com,68,"Detroit, MI",Bluetooth Speaker,2,2025-06-01,Not great value for the price; a few improvements are needed.,False
+R00133,Morgan Morris,customer0133@example.com,75,"Portland, OR",Reading Lamp,4,2025-11-23,Good quality and useful; delivery took a little longer than expected.,False
+R00134,Jamie Ward,customer0134@example.com,74,"Tucson, AZ",Insulated Lunch Tote,5,2024-09-25,"A great value, thoughtfully made, and exactly as described.",False
+R00135,Casey Campbell,customer0135@example.com,59,"Nashville, TN",Ceramic Coffee Mug,5,2024-07-07,The materials feel sturdy and the design is practical.,False
+R00136,Reese Nguyen,customer0136@example.com,58,"Boston, MA",Insulated Lunch Tote,3,2025-06-02,Average experience: it arrived on time and performs as expected.,False
+R00137,Riley Perry,customer0137@example.com,46,"Tucson, AZ",Travel Backpack,5,2024-02-17,The details are well considered and it has quickly become a favorite.,False
+R00138,Jordan James,customer0138@example.com,74,"Minneapolis, MN",Kitchen Scale,3,2025-04-18,"Works adequately, though setup took longer than expected.",False
+R00129,Sage Lewis,customer0129@example.com,44,"Tucson, AZ",Ceramic Coffee Mug,2,2024-01-05,Some parts feel flimsy and I have concerns about durability.,False
